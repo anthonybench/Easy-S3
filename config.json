@@ -1,0 +1,10 @@
+{ 
+  "cylancedev" : {
+    "cylancedev-ops-dist" : {
+    "./test1.txt" : "venue_mssql/sleepyAutoTest/test1.txt",
+    "./test2.txt" : "venue_mssql/sleepyAutoTest/test2.txt",
+    "./test3/test3.txt" : "venue_mssql/sleepyAutoTest/test3.txt",
+    "./hello/" : "venue_mssql/sleepyAutoTest/"
+    }
+  }
+}
